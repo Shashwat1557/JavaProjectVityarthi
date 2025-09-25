@@ -17,3 +17,14 @@ File Operations – Import/export data using CSV/text files, create timestamped 
 Reports – Stream-based GPA distribution and top student reports.
 
 CLI Workflow – Menu-driven interface covering all operations.
+
+🛠️ Tech Stack
+
+Language: Java SE
+
+Architecture: Modular packages (cli, domain, service, io, util, config)
+
+Concepts: Encapsulation, Inheritance, Abstraction, Polymorphism, Interfaces, Nested Classes, Lambdas, Enums
+
+APIs & Utilities: Java Date/Time API, NIO.2, Streams, Assertions
+
